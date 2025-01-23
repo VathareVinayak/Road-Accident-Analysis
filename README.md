@@ -4,6 +4,9 @@
 This project leverages **Power BI** to analyze and visualize road accident data to uncover insights that can aid in improving road safety. The dashboard provides an interactive and comprehensive analysis of road accidents, focusing on key patterns, trends, and severity factors.
 
 ---
+![Traffic Accident Analysis](Road_Accident_Analysis.png)
+---
+
 
 ## Key Features
 
